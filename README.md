@@ -10,5 +10,5 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-component-ORv7OsNa1o](https://www.frontendmentor.io/solutions/3-column-preview-card-component-ORv7OsNa1o)
-- Live Site URL: [https://mschichuang.github.io/3-column-preview-card-component/](https://mschichuang.github.io/3-column-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-jmU1OhQtGs](https://www.frontendmentor.io/solutions/social-proof-section-jmU1OhQtGs)
+- Live Site URL: [https://mschichuang.github.io/Social-proof-section/](https://mschichuang.github.io/Social-proof-section/)
